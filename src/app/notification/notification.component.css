@@ -1,0 +1,19 @@
+/* we can also use this style css inside styleUrls as i used template isted of templateURL
+style :[".notifictaion-div{marging:}"] */
+
+.alert {
+  margin: 10px 0px;
+  padding: 10px 15px 10px 10px;
+  background-color: rgb(196, 236, 238);
+  text-align: center;
+}
+.close {
+  float: right;
+  margin-top: -44px;
+}
+.fadeOut {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibilty 0s 4s;
+  opacity: 4s linear;
+}

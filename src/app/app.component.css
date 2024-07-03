@@ -1,0 +1,11 @@
+/* .wrapper {
+  background-color: #fdebd0;
+} */
+
+.class-conatiner {
+  width: 720px;
+  margin: 30px auto;
+  padding: 10px 20px;
+  background-color: #f4f4f4;
+  display: flex;
+}
